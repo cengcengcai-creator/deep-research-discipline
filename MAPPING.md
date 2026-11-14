@@ -5,7 +5,7 @@
 
 | 本仓 | 本机 | 说明 |
 |---|---|---|
-| `SKILL.md（流程）` | `skills/deep-research-review/SKILL.md` | 流程对应，无脚本 |
+| `SKILL.md` | `<skill>/SKILL.md` | 流程对应，无脚本 |
 
 ## 同步规则
 
